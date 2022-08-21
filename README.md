@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Java and WebD.
 - 👯 I’m looking to collaborate on Web Development.
 - 🤔 I’m looking for help with interview preparation.
-- 📫 How to reach me: singhpanwarnitin@gmail.com
+- 📫 How to reach me: nitinchaudhary39@outlook.com
 -->
