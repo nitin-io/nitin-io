@@ -15,13 +15,11 @@ A Student, WebDev, and Technology Enthusiast.
 <img src="https://github-readme-stats.vercel.app/api?username=nitin-io&show_icons=true&count_private=true&theme=dark" width="400" />
 </p>
 
-<p align="center">
-<pre>
-                                    🔭 I’m currently working on WebD & DSA.
-                                    🤔 I’m looking for help with interview preparation.
-                                    🌱 I’m currently learning JavaScript.
-                                    👯 I’m looking to collaborate on WebD.
-</pre>
+<p align="center" width="300px">
+🔭 I’m currently working on WebD & DSA.<br>
+🤔 I’m looking for help with interview preparation.<br>
+🌱 I’m currently learning JavaScript.<br>
+👯 I’m looking to collaborate on WebD.<br>
 </p>
 
 <h1 align="center">Work</h1>
