@@ -6,9 +6,9 @@ A Student, WebDev, and Technology Enthusiast.
 </p>
 
 <p align="center" >
-<a href="https://www.linkedin.com/in/nitin-chaudhary-667633188/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="10%" height="50%"></a>
-<a href="https://twitter.com/nitin_io"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="10%" height="50%"></a>
-<a href="https://t.me/IAmRoot_user"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="10%" height="50%"></a>
+<a href="https://www.linkedin.com/in/nitin-chaudhary-667633188/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height="40px"></a>
+<a href="https://twitter.com/nitin_io"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="100px" height="40px"></a>
+<a href="https://t.me/IAmRoot_user"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="100px" height="40px"></a>
 </p>
 
 <p align="center">
