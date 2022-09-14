@@ -11,7 +11,7 @@ A Student, WebDev, and Technology Enthusiast.
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username={nitin-io}" />
+<img src="https://github-readme-stats.vercel.app/api?username=nitin-io&show_icons=true&count_private=true&theme=dark" />
 </p>
 
 <p align="center">
