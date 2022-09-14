@@ -9,19 +9,10 @@ I am a Web Developer and Technology Enthusiast.
 
 
 <p align="center">
-🔭 I’m currently working on WebD & DSA.
-</p>
-
-<p align="center">
-🌱 I’m currently learning JavaScript.
-</p>
-
-<p align="center">
-👯 I’m looking to collaborate on WebD.
-</p>
-
-<p align="center">
-🤔 I’m looking for help with interview preparation.
+🔭 I’m currently working on WebD & DSA. <br>
+🤔 I’m looking for help with interview preparation. <br>
+🌱 I’m currently learning JavaScript. <br>
+👯 I’m looking to collaborate on WebD. <br>
 </p>
 
 <h1 align="center">Work</h1>
