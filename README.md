@@ -3,9 +3,9 @@
 </h1>
 
 
-<p align="center">
+<h2 align="center">
 I am a Web Developer and Technology Enthusiast.
-</p>
+</h2>
 
 <p align="center">
 🔭 I’m currently working on WebD & DSA.
