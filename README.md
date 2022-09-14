@@ -10,8 +10,8 @@ A Student, WebDev, and Technology Enthusiast.
 <a href="https://twitter.com/nitin_io"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-<p>
-https://github-readme-stats.vercel.app/api?username={nitin-io}
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username={nitin-io}" />
 </p>
 
 <p align="center">
