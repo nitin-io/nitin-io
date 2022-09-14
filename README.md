@@ -16,10 +16,12 @@ A Student, WebDev, and Technology Enthusiast.
 </p>
 
 <p align="center">
-🔭 I’m currently working on WebD & DSA. <br>
-🤔 I’m looking for help with interview preparation. <br>
-🌱 I’m currently learning JavaScript. <br>
-👯 I’m looking to collaborate on WebD. <br>
+<pre>
+🔭 I’m currently working on WebD & DSA.
+🤔 I’m looking for help with interview preparation.
+🌱 I’m currently learning JavaScript.
+👯 I’m looking to collaborate on WebD.
+</pre>
 </p>
 
 <h1 align="center">Work</h1>
