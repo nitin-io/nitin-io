@@ -8,4 +8,7 @@
 -->
 
 
-https://img.shields.io/badge/website-nitin-io.github.io?style=for-the-badge&logo=About.me&logoColor=white
+[<img align="left" alt="gfg"
+https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white />][github-pages]
+
+[github-pages]: https://nitin-io.github.io/
