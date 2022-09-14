@@ -1,11 +1,12 @@
 <h1 align="center"> 
-    Hi there, I'm Nitin Chaudhary👋
+Hi there, I'm Nitin Chaudhary👋
+<p align="center">
+I am a Web Developer and Technology Enthusiast.
+</p>
 </h1>
 
 
-<h2 align="center">
-I am a Web Developer and Technology Enthusiast.
-</h2>
+
 
 <p align="center">
 🔭 I’m currently working on WebD & DSA.
