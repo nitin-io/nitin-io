@@ -1,7 +1,7 @@
 <h1 align="center"> 
 Hi there, I'm Nitin Chaudhary👋
 <p align="center">
-I am a Web Developer and Technology Enthusiast.
+I'm a Student, WebDev, and Technology Enthusiast.
 </p>
 </h1>
 
