@@ -55,3 +55,7 @@ A Student, WebDev, and Technology Enthusiast.
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 </p>
+
+<p align="right">
+<a href="https://t.me/IAmRoot_user"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="200px"></a>
+</p>
