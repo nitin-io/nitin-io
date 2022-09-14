@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Hi there, I'm Nitin Chaudhary👋
+Hi there👋 I'm Nitin 👨‍💻
 </h1>
 <p align="center">
 A Student, WebDev, and Technology Enthusiast.
