@@ -2,7 +2,7 @@
 Hi there👋 I'm Nitin 👨‍💻
 </h1>
 <p align="center">
-A Student, WebDev, and Technology Enthusiast.
+A young-dumb Student, WebDev, and Technology Enthusiast.
 </p>
 
 <p align="center" >
