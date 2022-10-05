@@ -58,4 +58,4 @@ A young-dumb Student and Technology Enthusiast.
 
 </p>
 
-[![Spotify](https://nitinchaudhary.vercel.app/api/spotify)](https://open.spotify.com/user/31ywm6ilzpgz2vbcpt5sibrybgtq)
+[![Spotify](https://https://playing-spotify-qv4z241p6-nitinchaudhary.vercel.app/api/spotify)](https://open.spotify.com/user/31ywm6ilzpgz2vbcpt5sibrybgtq)
