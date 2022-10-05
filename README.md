@@ -14,14 +14,12 @@ A young-dumb Student and Technology Enthusiast.
 <img src="https://github-readme-stats.vercel.app/api?username=nitin-io&show_icons=true&count_private=true&theme=dark" width="400" />
 </p>
 
-<p align="center">
-<div style="margin: auto; width: 58%;">
+<div style="margin: auto; width: 58%;" align="center">
 🔭 I’m currently working on WebD & DSA.<br>
 🤔 I’m looking for help with interview preparation.<br>
 🌱 I’m currently learning JavaScript.<br>
 👯 I’m looking to collaborate on WebD.<br>
 </div>
-</p>
 
 <h1 align="center">Work</h1>
 
@@ -33,29 +31,32 @@ A young-dumb Student and Technology Enthusiast.
 
 <h1 align="center">Technology Stack</h1>
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 
-</p>
+</div>
 
-<p align="center"> 
+<div align="center"> 
 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-</p>
+</div>
 
-<p align="center"> 
+<div align="center"> 
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
-</p>
+</div>
+
+<h1 align="center">Spotify Playing</h1>
+<div align="center">
 
 [![Spotify](https://playing-spotify-imwywir3q-nitinchaudhary.vercel.app/api/spotify)](https://open.spotify.com/user/31ywm6ilzpgz2vbcpt5sibrybgtq)
+
+</div>
