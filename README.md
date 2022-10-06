@@ -10,9 +10,7 @@ A young-dumb Student and Technology Enthusiast.
 <a href="https://twitter.com/nitin_io"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="70px" height="20px"></a>
 </p>
 
-<p align="center">
-![](https://komarev.com/ghpvc/?username=nitin-io)
-</p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=nitin-io alt=nitin-io/> </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nitin-io&show_icons=true&count_private=true&theme=dark" width="400" />
