@@ -55,10 +55,3 @@ A young-dumb Student and Technology Enthusiast.
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
-
-<h1 align="center">Spotify Playing</h1>
-<div align="center">
-
-[![Spotify](https://playing-spotify-imwywir3q-nitinchaudhary.vercel.app/api/spotify)](https://open.spotify.com/user/31ywm6ilzpgz2vbcpt5sibrybgtq)
-
-</div>
