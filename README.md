@@ -59,3 +59,5 @@ A young-dumb Student and Technology Enthusiast.
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
+
+![](https://hit.yhype.me/github/profile?user_id=76252414)
