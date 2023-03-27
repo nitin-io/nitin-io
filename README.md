@@ -10,10 +10,10 @@ A young-dumb Student and Technology Enthusiast.
 <p align="center"><img src=https://komarev.com/ghpvc/?username=nitin-io alt=nitin-io/> </p>
 
 <div style="margin: auto; width: 58%;" align="center">
-🔭 I’m currently working on WebD & DSA.<br>
-🤔 I’m looking for help with interview preparation.<br>
-🌱 I’m currently learning JavaScript.<br>
-👯 I’m looking to collaborate on WebD.<br>
+🔭 I’m currently working on learning web development with the MERN stack.<br>
+🤔 I’m looking for help with finding a job as a fresher in web development.<br>
+🌱  I’m currently learning JavaScript and other web development technologies to enhance my skills.<br>
+👯 I’m looking to collaborate on web development projects with other developers and build my portfolio.<br>
 </div>
 
 <br><br>
