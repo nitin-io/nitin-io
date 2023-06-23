@@ -10,19 +10,10 @@ A young-dumb Student and Technology Enthusiast.
 <p align="center"><img src=https://komarev.com/ghpvc/?username=nitin-io alt=nitin-io/> </p>
 
 <div style="margin: auto; width: 58%;" align="center">
-🔭 I’m currently working on E-commerce web application.<br>
 🤔 I’m looking for help with a job as a fresher in web development.<br>
-🌱  I’m currently learning JavaScript and other web development technologies to enhance my skills.<br>
-👯 I’m looking to collaborate on web development projects with other developers and build my portfolio.<br>
+🌱  I’m currently learning JavaScript.<br>
+👯 I’m looking to collaborate on MERN Stack projects with other developers and build my portfolio.<br>
 </div>
-
-<br><br>
-
-<h1 align="center">Profile Stats</h1>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nitin-io&show_icons=true&count_private=true&theme=dark" width="400" />
-</p>
 
 <br><br>
 
@@ -41,7 +32,6 @@ A young-dumb Student and Technology Enthusiast.
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-
 
 </div>
 
