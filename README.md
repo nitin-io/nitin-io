@@ -2,7 +2,7 @@
 Hi there👋 I'm Nitin 👨‍💻
 </h1>
 <p align="center">
-A young-dumb Student and Technology Enthusiast.
+an aspiring full-stack developer.
 </p>
 
 <p align="center" >
@@ -10,9 +10,8 @@ A young-dumb Student and Technology Enthusiast.
 <p align="center"><img src=https://komarev.com/ghpvc/?username=nitin-io alt=nitin-io/> </p>
 
 <div style="margin: auto; width: 58%;" align="center">
-🤔 I’m looking for help with a job as a fresher in web development.<br>
-🌱  I’m currently learning JavaScript.<br>
-👯 I’m looking to collaborate on MERN Stack projects with other developers and build my portfolio.<br>
+🐧 Proud Ubuntu user! Linux enthusiast and advocate.<br>
+🤝 Always open to collaborating on exciting projects and learning from fellow developers.<br>
 </div>
 
 <br><br>
